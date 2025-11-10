@@ -1,5 +1,9 @@
 ## Project Details
-Pipeline based on /SAC_Object_Detection project - https://github.com/
+Pipeline based on SAC_Object_Detection project 
+Journal: Evolving Systems
+DOI: 10.1007/s12530-025-09749-y
+Title: Scale-invariant object detection by adaptive convolution with unified global-local context
+
 
 
 # Supported Models
